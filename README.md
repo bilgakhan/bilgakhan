@@ -1,16 +1,37 @@
-### Hi there 👋
+```
+void main(){
+    print("Hello There");
+}
+```
+<center>
 
-<!--
-**alimov18/alimov18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anvar's github stats](https://github-readme-stats.vercel.app/api?username=alimov18&theme=bear&show_icons=true)
 
-Here are some ideas to get you started:
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>Currently learning</p> 
+<center>
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase)](https://skillicons.dev)
+
+</center>
+<p>My web development tools</p>
+<center>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,svelte,vite)](https://skillicons.dev)
+
+</center>
+<p>OpenSource</p>
+<center>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,kubernetes,vim,bash)](https://skillicons.dev)
+
+</center>
+<p>Favourite Lang & Tools</p>
+<center>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,gcp,github,go,kotlin,rust,swift,nodejs)](https://skillicons.dev)
+
+</center>
+

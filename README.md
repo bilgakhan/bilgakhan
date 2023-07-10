@@ -5,7 +5,7 @@ void main(){
 ```
 <center>
 
-![Anvar's github stats](https://github-readme-stats.vercel.app/api?username=alimov18&theme=bear&show_icons=true)
+![Anvar's github stats](https://github-readme-stats.vercel.app/api?username=bilgakhan&theme=bear&show_icons=true)
 
 </center>
 

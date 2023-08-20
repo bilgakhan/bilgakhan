@@ -12,7 +12,7 @@ void main(){
 <p>Currently learning</p> 
 <center>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,go)](https://skillicons.dev)
 
 </center>
 <p>My web development tools</p>
@@ -30,7 +30,7 @@ void main(){
 <p>Favourite Lang & Tools</p>
 <center>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,go,kotlin,rust,swift,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,kotlin,rust,swift,nodejs)](https://skillicons.dev)
 
 </center>
 

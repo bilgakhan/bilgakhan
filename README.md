@@ -1,6 +1,6 @@
 ## 👾 18 y.o Flutterist
 
-#Skills
+#Skills <br><br>
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,figma&theme=dark)](https://skillicons.dev)
 
 #Links

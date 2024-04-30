@@ -1,7 +1,7 @@
 ## 👾 19 y.o Developer
 
 #Skills <br><br>
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,java,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,go,figma&theme=dark)](https://skillicons.dev)
 
 #Links
 <ul>

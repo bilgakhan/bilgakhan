@@ -28,7 +28,7 @@ I'm passionate about crafting robust and scalable web applications using cutting
 ### 📫 How to reach me
 
 - anvarcodes@gmail.com
-- [Linkedin](https://linkedin.com/in/alimovv)
+- [Linkedin](https://linkedin.com/in/bilgakhan)
 - [Twitter X](https://twitter.com/bilgakhan)
 
 ### 📊 GitHub Stats

@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Anvar
+# 👋 Assalamu aleykum! I'm Anvar
 
 ## 🚀 Full Stack Developer | PHP Symfony | Vue.js
 
@@ -22,14 +22,14 @@ I'm passionate about crafting robust and scalable web applications using cutting
 
 ### 🌱 Currently learning
 
-- [Technology or skill you're currently learning]
-- [Another area of interest or growth]
+- _Linux_
+- _Data Structures_
 
 ### 📫 How to reach me
 
-- anvarcodes@gmail.com
+- [Email](mailto:anvarcodes@gmail.com)
 - [Linkedin](https://linkedin.com/in/bilgakhan)
-- [Twitter X](https://twitter.com/bilgakhan)
+- [Telegram](https://t.me/bilgakhan)
 
 ### 📊 GitHub Stats
 
@@ -41,4 +41,4 @@ I'm passionate about crafting robust and scalable web applications using cutting
 
 ---
 
-⭐️ From [bilgakhan](https://github.com/bilgakhan)
+⭐️ From [Anvar Bilgakhan](https://github.com/bilgakhan)

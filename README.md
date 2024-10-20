@@ -1,5 +1,7 @@
 # 👋 Assalamu aleykum! I'm Anvar
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bilgakhan&data=followers,repositories,stars,commits&theme=dark)](https://github.com/bilgakhan)
+
 ## 🚀 Full Stack Developer | PHP Symfony | Vue.js
 
 I'm passionate about crafting robust and scalable web applications using cutting-edge technologies. With expertise in both backend and frontend development, I specialize in creating seamless user experiences and efficient server-side solutions.
